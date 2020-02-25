@@ -1,2 +1,2 @@
 # TrajectoryPlanner
-Row Change Trajectory Planner for agricultural robots.
+Row Change Trajectory Planner package for agricultural robots.
